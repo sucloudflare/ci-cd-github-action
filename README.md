@@ -76,9 +76,9 @@ jobs:
         <section>
             <h2>Instalação Local</h2>
             <p>Clone este repositório:</p>
-            <pre><code>git clone https://github.com/usuario/meu-projeto-html-css.git</code></pre>
+            <pre><code>git clone https://github.com/sucloudflare/ci-cd-github-action/tree/main</code></pre>
             <p>Navegue até a pasta do projeto:</p>
-            <pre><code>cd meu-projeto-html-css</code></pre>
+            <pre><code>cd ci-cd-github-action</code></pre>
             <p>Se quiser rodar o projeto localmente, basta abrir o arquivo <code>index.html</code> no navegador.</p>
         </section>
 
